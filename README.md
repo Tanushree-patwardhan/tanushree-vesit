@@ -22,4 +22,4 @@ Building embedded systems, IoT devices, and edge AI applications.
 - 🔄 Currently pursuing: Python & ML certifications
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tanushree-patwardhan-1912bb387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanushree-patwardhan-1912bb387/)
